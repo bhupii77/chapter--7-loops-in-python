@@ -1,0 +1,1 @@
+print("The sum of the first", n, "natural numbers is:", sum_of_numbers)
